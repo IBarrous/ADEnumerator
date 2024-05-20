@@ -27,6 +27,7 @@ a custom powershell script designed to automate the enumeration of AD infrastruc
   <img src="https://github.com/IBarrous/ADEnumerator/assets/126162952/5d822086-cfb2-4dc9-975c-a29f6b9bdfd6" alt="image1">
 </div>
 
+<br />
 <p align="center"><i>Example of a specific scan of a SamAccountName</i></p>
 <div align="center">
   <img src="https://github.com/IBarrous/ADEnumerator/assets/126162952/bd14e32d-8744-47d2-a11a-d38ccecd9873" alt="image2">
